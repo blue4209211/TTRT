@@ -52,7 +52,7 @@ java -jar TTCN.jar testcase.ttcn3.
 *It assumes ttcn3 files should be saved as .ttcn3 extension(to solve dependency on other ttcn3 modules).
 *Please check testcases in test folder.
 
-<h2>TRI usage<h2>
+<h2>TRI usage</h2>
 Please check example codes(com.shiv.ttcn.test.Adapter.java)
 
 <b>Requirements</b><br>
